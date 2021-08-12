@@ -1,4 +1,5 @@
 # step by step push to github
+# updatee
 > jika belum git init dulu 
 - `git init` 
 - `git add .` 
