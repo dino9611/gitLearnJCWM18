@@ -10,3 +10,6 @@ jika belum add remote origin
 - `git remote add origin http blablabla` 
 - `git push origin master ` 
 > master: nama branch yang mau di push 
+
+halo 123
+tessss
